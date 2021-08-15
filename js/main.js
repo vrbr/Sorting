@@ -1,0 +1,1 @@
+const mixer = mixitup('.cart__container-filter');
